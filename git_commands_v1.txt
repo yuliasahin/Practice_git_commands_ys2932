@@ -5,3 +5,4 @@ git commit -m ""
 git push
 git show HEAD
 git reset commit_SHAgit -d
+git push --set-upstream origin branch name
