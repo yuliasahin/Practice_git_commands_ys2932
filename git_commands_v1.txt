@@ -4,5 +4,4 @@ git add
 git commit -m ""
 git push
 git show HEAD
-git reset commit_SHA
-
+git reset commit_SHAgit -d
